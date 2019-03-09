@@ -1,6 +1,6 @@
 mqtt:
-  - broker_url: tcp://localhost:1883
+  - brokerUrl: tcp://localhost:1883
   
 es:
-  - access_key: c3siliess7
-  - access_secret: ta83my1f0o
+  - accessKey: c3siliess7
+  - accessSecret: ta83my1f0o
